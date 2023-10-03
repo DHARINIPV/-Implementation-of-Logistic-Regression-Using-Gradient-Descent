@@ -120,41 +120,51 @@ Array Value of x:
 
 ![image](https://github.com/DHARINIPV/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119400845/8addc02a-f4eb-45c0-93b6-73b1343b5902)
 
+
 Array Value of y:
 
 ![image](https://github.com/DHARINIPV/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119400845/bbc81769-1622-49f5-b996-497017d37fc3)
+
 
 Exam 1 - score graph:
 
 ![image](https://github.com/DHARINIPV/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119400845/93b1d3cc-b255-4c2f-9136-c86947992e08)
 
+
 Sigmoid function Graph:
 
 ![image](https://github.com/DHARINIPV/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119400845/c8683429-c7d7-44f5-b354-a8c0fe64a7cb)
+
 
 X_train_grad value:
 
 ![image](https://github.com/DHARINIPV/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119400845/2b051b91-910c-4a90-bead-855b0983d6e1)
 
+
 Y_train_grad value:
 
 ![image](https://github.com/DHARINIPV/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119400845/3ceb4da8-c5b0-4722-997e-136bb5827b7b)
+
 
 Print res.x:
 
 ![image](https://github.com/DHARINIPV/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119400845/8cd1eabf-3e59-43cd-b2bd-f6941dad674b)
 
+
 Decision Boundary - graph for exam score:
 
 ![image](https://github.com/DHARINIPV/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119400845/5ab72b30-51b5-44fc-87ba-d4c8a343280b)
+
 
 Probability value:
 
 ![image](https://github.com/DHARINIPV/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119400845/9247a2dd-c550-45ba-b2f4-da94d8088ed0)
 
+
 Prediction value of mean:
 
 ![image](https://github.com/DHARINIPV/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119400845/3647e888-bdfa-4bce-bea1-545f0b4e47ac)
+
 
 ## Result:
 
