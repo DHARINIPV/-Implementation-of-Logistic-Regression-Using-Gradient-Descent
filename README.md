@@ -116,15 +116,15 @@ np.mean(predict(res.x, X) == y)
 ```
 ## Output:
 
-Array value of X:
+Array Value of x:
 
 ![image](https://github.com/DHARINIPV/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119400845/8addc02a-f4eb-45c0-93b6-73b1343b5902)
 
-Array value of Y:
+Array Value of y:
 
 ![image](https://github.com/DHARINIPV/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119400845/bbc81769-1622-49f5-b996-497017d37fc3)
 
-Score Graph:
+Exam 1 - score graph:
 
 ![image](https://github.com/DHARINIPV/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119400845/93b1d3cc-b255-4c2f-9136-c86947992e08)
 
@@ -140,11 +140,11 @@ Y_train_grad value:
 
 ![image](https://github.com/DHARINIPV/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119400845/3ceb4da8-c5b0-4722-997e-136bb5827b7b)
 
-res.X:
+Print res.x:
 
 ![image](https://github.com/DHARINIPV/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119400845/8cd1eabf-3e59-43cd-b2bd-f6941dad674b)
 
-Decision Boundary:
+Decision Boundary - graph for exam score:
 
 ![image](https://github.com/DHARINIPV/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119400845/5ab72b30-51b5-44fc-87ba-d4c8a343280b)
 
